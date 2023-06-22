@@ -1,4 +1,4 @@
-# Spam_Ham_Messages
+# Spam_Ham_Emails
 A spam ham classifier using NLP Techniques:-
 1)  Stemming
 2)  Lemmatization
